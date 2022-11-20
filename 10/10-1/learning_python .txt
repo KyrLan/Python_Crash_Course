@@ -1,0 +1,4 @@
+In Python you can count
+In Python you can work with large array of data
+In Python you can create a game
+In Python you can create TelegramBot
